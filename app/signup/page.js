@@ -41,6 +41,7 @@
 // }
 
 
+'use client';
 import React, { useState } from 'react';
 import { FaGoogle } from 'react-icons/fa';
 import Image from 'next/image';
